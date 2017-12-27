@@ -1,0 +1,58 @@
+[
+    {
+        "userName":"saiprasadb",
+        "userCode":"A15027",
+        "userId":1,
+        "password":"Pass@123",
+        "name":"Saiprasad Bengiri",
+        "role":["SysAdmin"],
+        "manager":"Pathamesh Gawade",
+        "managerId":2
+    
+    },
+    {
+        "userName":"prathameshg",
+        "userCode":"A15064",
+        "userId":2,
+        "password":"Pass@123",
+        "name":"Prathamesh Gawade",
+        "role":["HR"],
+        "manager":"Shital Girmal",
+        "managerId":3},
+    {
+        "userName":"shitalg",
+        "userCode":"A15033",
+        "userId":3,
+        "password":"Pass@123",
+        "name":"Shital Girmal",
+        "role":["Employee"],
+        "manager":"Saiprasad Bengiri",
+        "managerId":1},
+    {
+        "userName":"bhushang",
+        "userCode":"A16027",
+        "userId":4,
+        "password":"Pass@123",
+        "name":"Bhushan Gharat",
+        "role":["SysAdmin"],
+        "manager":"Saiprasad Bengiri",
+        "managerId":1},
+    {
+        "userName":"adityav",
+        "userCode":"A15050",
+        "userId":5,
+        "password":"Pass@123",
+        "name":"Aditya Vadodaria",
+        "role":["SysAdmin"],
+        "manager":"Pathamesh Gawade",
+        "managerId":2},
+    {
+        "userName":"dhanashreep",
+        "userCode":"A15056",
+        "userId":6,
+        "password":"Pass@123",
+        "name":"Dhanashree Phadtare",
+        "role":["SysAdmin"],
+        "manager":"Saiprasad Bengiri",
+        "managerId":1}
+]
